@@ -1,28 +1,7 @@
-== README
+## The Pivot
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+You can find it live here http://vagabondr.herokuapp.com
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This application was a group project for the [Turing School of Software and Design](http://www.turing.io), in which we inherited an existing single tenant restaurant ordering site. We were tasked with turning it into a multitenant vacation rental home application.
 
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
